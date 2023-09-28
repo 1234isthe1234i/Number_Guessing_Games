@@ -1,6 +1,6 @@
 # Number_Guessing_Games
 
-##Guess Num Player
+## Guess Num Player
 Generates a random number based on the max number you give it. 
 
 You will then have to guess the random number with hints indicating if it is greater than or less than the number you guessed. 
